@@ -1,0 +1,9 @@
+name,full_name,html_url,description,language,stargazers_count,forks_count,open_issues_count,pushed_at,license,topics,has_readme
+gradio,gradio-app/gradio,https://github.com/gradio-app/gradio,Build and share machine learning apps,Python,43000,3200,620,2026-06-23T10:30:00Z,Apache-2.0,"data-science;machine-learning;ui;visualization",true
+superset,apache/superset,https://github.com/apache/superset,Apache Superset is a modern data exploration and visualization platform,TypeScript,65000,14000,1800,2026-06-22T08:00:00Z,Apache-2.0,"business-intelligence;dashboard;sql;visualization",true
+airflow,apache/airflow,https://github.com/apache/airflow,Platform to programmatically author schedule and monitor workflows,Python,39000,15000,1200,2026-06-21T16:20:00Z,Apache-2.0,"data-engineering;workflow;etl;orchestration",true
+langchain,langchain-ai/langchain,https://github.com/langchain-ai/langchain,Build applications with LLMs through composability,Python,105000,17000,2400,2026-06-23T13:00:00Z,MIT,"llm;rag;agents;ai",true
+dbt-core,dbt-labs/dbt-core,https://github.com/dbt-labs/dbt-core,dbt enables analytics engineers to transform data in warehouses,Python,11000,2100,450,2026-06-20T12:00:00Z,Apache-2.0,"analytics-engineering;sql;data-engineering;etl",true
+scikit-learn,scikit-learn/scikit-learn,https://github.com/scikit-learn/scikit-learn,Machine learning in Python,Python,62000,26000,1900,2026-06-19T09:15:00Z,BSD-3-Clause,"machine-learning;statistics;python;modeling",true
+streamlit,streamlit/streamlit,https://github.com/streamlit/streamlit,Faster way to build and share data apps,Python,38000,3100,850,2026-06-18T18:45:00Z,Apache-2.0,"dashboard;data-app;visualization;python",true
+duckdb,duckdb/duckdb,https://github.com/duckdb/duckdb,Analytical in-process SQL database management system,C++,30000,2600,700,2026-06-23T06:00:00Z,MIT,"sql;analytics;database;olap",true

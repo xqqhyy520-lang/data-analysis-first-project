@@ -1,0 +1,13 @@
+queries:
+  - topic:data-science language:Python
+  - topic:machine-learning language:Python
+  - topic:data-engineering language:Python
+  - topic:streamlit language:Python
+  - topic:gradio language:Python
+  - topic:llm language:Python
+  - topic:rag language:Python
+  - topic:mlops language:Python
+  - topic:sql
+  - topic:business-intelligence
+
+per_query: 25
